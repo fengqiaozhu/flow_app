@@ -79,3 +79,7 @@ hvigorw test --mode module -p product=default -p target=ohosTest
 - `@kit.AbilityKit` - Ability lifecycle, Want
 - `@kit.ArkUI` - UI components, window management
 - `@kit.PerformanceAnalysisKit` - hilog for logging
+
+## Rules
+
+- [HarmonyOS 开发文档参考](./docs/rules/harmonyos-docs.md) - 通过 NotebookLM 查询鸿蒙开发文档，获取 ArkUI 组件、API 使用指南等。开发时优先参考此文档。
